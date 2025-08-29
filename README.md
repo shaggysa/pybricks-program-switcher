@@ -27,7 +27,7 @@ You can use these devices in your block code
 ![](readme_images/4.png)
 ![](readme_images/5.png)
 
-It is inconvenient to drag an extra block every time you want to do something, so you can create tasks to run these blocks for you:
+It is inconvenient to drag an extra block every time you want to do something, so you can create tasks to run these blocks for you. See block_template.py for examples. It is recommended to create one template and use it for all of your block-based programs.
 
 ![](readme_images/6.png)
 
