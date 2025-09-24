@@ -1,4 +1,3 @@
-from __future__ import print_function
 from pybricks.hubs import PrimeHub
 from robot import drive_base
 from robot import hub
